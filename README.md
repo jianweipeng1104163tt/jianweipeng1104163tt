@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**jianweipeng1104163tt/jianweipeng1104163tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jianweipeng1104163tt/jianweipeng1104163tt** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ✨ Our destiny offers not the cup of despair, but the chalice of opportunity.
